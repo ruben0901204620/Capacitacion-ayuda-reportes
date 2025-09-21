@@ -1,0 +1,4 @@
+//Abrir Formulario
+
+/*nombre del formulario*/ frm = new /*nombre del formulario*/();
+frm.Show();
